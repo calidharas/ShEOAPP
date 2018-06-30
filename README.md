@@ -1,2 +1,2 @@
 # ShEOAPP
-This project is great 
+This project is great and ewosome
